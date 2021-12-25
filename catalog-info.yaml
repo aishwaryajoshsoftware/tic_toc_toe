@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tic_toc_toe
+  annotations:
+    github.com/project-slug: aishwaryajoshsoftware/tic_toc_toe
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
