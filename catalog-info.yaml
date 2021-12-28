@@ -10,6 +10,10 @@ metadata:
     github.com/project-slug: aishwaryajoshsoftware/tic_toc_toe
 spec:
   type: service
+  profile:
+    displayName: Aishwarya M K
+    email: aishwarya.mk@joshsoftware.com
   lifecycle: production
   owner: user:Aishwarya m k
   system: audio-playback
+  memberOf: [team-a]
