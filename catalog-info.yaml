@@ -2,9 +2,14 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tic_toc_toe
+  description: Playback Order
+  tags:
+    - reactJs
+    - game
   annotations:
     github.com/project-slug: aishwaryajoshsoftware/tic_toc_toe
 spec:
-  type: other
-  lifecycle: unknown
-  owner: backstage
+  type: service
+  lifecycle: production
+  owner: user:guest
+  system: audio-playback
