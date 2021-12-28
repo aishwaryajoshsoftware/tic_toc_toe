@@ -4,7 +4,7 @@ metadata:
   name: tic_toc_toe
   description: Playback Order
   tags:
-    - reactJs
+    - react
     - game
   annotations:
     github.com/project-slug: aishwaryajoshsoftware/tic_toc_toe
