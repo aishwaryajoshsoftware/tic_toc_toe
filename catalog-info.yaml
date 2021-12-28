@@ -14,6 +14,6 @@ spec:
     displayName: Aishwarya M K
     email: aishwarya.mk@joshsoftware.com
   lifecycle: production
-  owner: user:Aishwarya m k
+  owner: team-a
   system: audio-playback
   memberOf: [team-a]
