@@ -11,5 +11,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: user:aishwarya.mk@joshsoftware.com
+  owner: user:Aishwarya m k
   system: audio-playback
